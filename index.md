@@ -6,3 +6,4 @@ Ich schreib hier über einen Filmcharakter, der mein Lieblingscharakter ist. Er 
 * liebt Pizza
 * liebt Lippizaner
 > Sein oder nicht sein,das ist hier die Frage.
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Sonnenuntergang_in_der_Namib.jpg"/>
